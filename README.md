@@ -118,7 +118,3 @@ No profile `dev` sobe um mock do Sistema de Contas que simula os status por cont
 ```properties
 spring.profiles.active=dev
 ```
-
-## Autor
-
-Paulo Aguiarti — github.com/paguiarti
